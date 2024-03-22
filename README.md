@@ -2,7 +2,7 @@
 **Cyber Security**
 
 ### Links:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mekrmz) 
+[![X](https://img.shields.io/badge/X-000000.svg?logo=X&logoColor=white)](https://twitter.com/mekrmz) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mekrmz)
 [![Tryhackme](https://img.shields.io/badge/Tryhackme-343A40.svg?logo=Tryhackme&logoColor=white)](https://tryhackme.com/p/mekrmz) 
 
