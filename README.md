@@ -9,5 +9,5 @@
 [![Dijital.dev](https://img.shields.io/badge/Dijital.dev-mekrmz-000.svg?)](https://dijital.dev/mekrmz)
 
 ### Languages and Tools:
-![Languages and Tools](https://skillicons.dev/icons?i=linux,python,html)
+[![Languages and Tools](https://skillicons.dev/icons?i=kali,linux,vscode,python,html)](https://skillicons.dev)
 <br />
