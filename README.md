@@ -12,4 +12,7 @@
 
 ### Languages and Tools:
 [![Languages and Tools](https://skillicons.dev/icons?i=kali,linux,vscode,python,html)](https://skillicons.dev)
+
+[![](https://komarev.com/ghpvc/?username=mekrmz&color=fc0d3d)](#)
+
 <br />
