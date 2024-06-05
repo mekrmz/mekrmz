@@ -6,7 +6,6 @@
 [![Medium](https://img.shields.io/badge/Medium-000.svg?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@mekrmz)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/@mekrmz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Dijital.dev](https://img.shields.io/badge/Mekrmz-pink?style=flat-square&label=Dijital.dev&labelColor=5B5B5B&color=ff0000)](https://dijital.dev/mekrmz)
 
 ### Languages and Tools:
 [![Languages and Tools](https://skillicons.dev/icons?i=kali,linux,vscode,python,html)](https://skillicons.dev)
