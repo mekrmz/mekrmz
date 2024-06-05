@@ -2,13 +2,11 @@
 **Cyber Security**
 
 ### Links:
-[![X](https://img.shields.io/badge/X-000000.svg?logo=X&logoColor=white)](https://twitter.com/mekrmz)
-[![Medium](https://img.shields.io/badge/Medium-000000.svg?logo=Medium&logoColor=white)](https://medium.com/@mekrmz)
-[![YouTube](https://img.shields.io/badge/YouTube-000000.svg?logo=YouTube&logoColor=ff0000)](https://youtube.com/@mekrmz)
-[![Tryhackme](https://img.shields.io/badge/Tryhackme-000000.svg?logo=Tryhackme&logoColor=ff0000)](https://tryhackme.com/p/mekrmz)
-[![Hackerone](https://img.shields.io/badge/Hackerone-000000.svg?logo=Hackerone&logoColor=white)](https://hackerone.com/mekrmz)
-[![Hackthebox](https://img.shields.io/badge/Hackthebox-000000.svg?logo=Hackthebox&logoColor=green)](https://app.hackthebox.com/profile/1929621)
-[![Dijital.dev](https://img.shields.io/badge/Dijital.dev-mekrmz-ff0000.svg?)](https://dijital.dev/mekrmz)
+[![X](https://img.shields.io/badge/X-000.svg?style=flat-square&logo=X&logoColor=white)](https://twitter.com/mekrmz)
+[![Medium](https://img.shields.io/badge/Medium-000.svg?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@mekrmz)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/@mekrmz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Dijital.dev](https://img.shields.io/badge/Mekrmz-pink?style=flat-square&label=Dijital.dev&labelColor=5B5B5B&color=ff0000)](https://dijital.dev/mekrmz)
 
 ### Languages and Tools:
 [![Languages and Tools](https://skillicons.dev/icons?i=kali,linux,vscode,python,html)](https://skillicons.dev)
