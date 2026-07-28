@@ -1,5 +1,5 @@
 ## **Hello, I am mekrmz** 👋
-**Cyber Security Researcher**
+**Cyber Threat Intelligence**
 
 ### Languages and Tools:
 [![Languages and Tools](https://skillicons.dev/icons?i=linux,python,kali,docker,html,css,js)](https://skillicons.dev)
